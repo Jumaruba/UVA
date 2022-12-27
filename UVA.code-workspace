@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../cses"
+		},
+		{
+			"path": "../Talk-A-Bit-Competition-23"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tex": "tex",
+			"ostream": "cpp"
+		}
+	}
+}
